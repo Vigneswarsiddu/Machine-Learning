@@ -9,4 +9,4 @@
 7. Loops in Python – For Loop & While Loop
 8. Functions in Python
 
-# For any Queries Contact Email Id: vigneswarsiddu07@gmail.com
+For any Queries Contact Email Id: vigneswarsiddu07@gmail.com
