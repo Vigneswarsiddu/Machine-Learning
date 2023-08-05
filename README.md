@@ -1,5 +1,5 @@
 # Python-Basics-for-Machine-Learning
-This Repository Covers following Topics:
+This Repository Covers the following Topics:
 Google Colaboratory for Python – Getting Systems Ready
 Python Basics
 Python Basic Data Types – int, float, string, complex, boolean
